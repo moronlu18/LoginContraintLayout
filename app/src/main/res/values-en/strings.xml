@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContraintLayoutButton</string>
+    <string name="txtUser">User: </string>
+    <string name="txtPassword">Password: </string>
+    <string name="chkRemember">Remember me</string>
+    <string name="btLogin">Login</string>
+    <string name="btSignUp">SignUp</string>
+    <string name="switch1">Activar notificaciones</string>
+    <string name="notificationOff">Notificaciones desactivadas</string>
+    <string name="notificationOn">Notificaciones activadas</string>
+    <string name="swNotification">Activar Notificaciones</string>
+</resources>

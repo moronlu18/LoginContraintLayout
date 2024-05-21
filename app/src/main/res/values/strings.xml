@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginConstraintLayout</string>
+    <string name="txtUser">Nombre de usuario: </string>
+    <string name="txtPassword">Constraseña: </string>
+    <string name="chkRemember">Remember me</string>
+    <string name="btLogin">Login</string>
+    <string name="btSignUp">SignUp</string>
+    <string name="switch1">Activate Notifications</string>
+    <string name="notificationOff">Notifications Disabled</string>
+    <string name="notificationOn">Notifications Activated</string>
+    <string name="swNotification">Activate Notifications</string>
+</resources>
